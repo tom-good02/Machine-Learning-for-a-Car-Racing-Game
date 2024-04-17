@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeMenu.unity
+    guid: 61ecc558e630e834194fb5956fdf3e79
+  - enabled: 1
+    path: Assets/Scenes/EA Tracks/EasyEA.unity
+    guid: 006e71e375b85ac4dad446ceb127a1e9
+  - enabled: 1
+    path: Assets/Scenes/EA Tracks/MediumEA.unity
+    guid: 89f2d0fd95a52584da05c619a209d22a
+  - enabled: 1
+    path: Assets/Scenes/EA Tracks/HardEA.unity
+    guid: 4c05d34d2aa2f5243ae0f0862c05ccc9
+  - enabled: 1
+    path: Assets/Scenes/EA Tracks/SilverstoneEA.unity
+    guid: 4d3c94615401c2f4db9bb6790bf8a58b
+  - enabled: 0
+    path: Assets/Scenes/RL Tracks/EasyRL.unity
+    guid: 1ef718a137be7154db15f2c54b79478c
+  - enabled: 0
+    path: Assets/Scenes/RL Tracks/MediumRL.unity
+    guid: ccd068dcdd1e19c48a32d07856d28433
+  - enabled: 0
+    path: Assets/Scenes/RL Tracks/HardRL.unity
+    guid: b19a0ecd829982d4db03f4547fd608c5
+  - enabled: 0
+    path: Assets/Scenes/RL Tracks/SilverstoneRL.unity
+    guid: ba8a154e88923ed4da6917277545f56c
+  m_configObjects: {}
