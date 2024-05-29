@@ -1,6 +1,6 @@
 # Machine Learning for a Car Racing Game
 
-Built in Unity, this project provides the ability to create and train your own Neuroevolution Agents through an interactive UI and gamified experience. Alongside this, it utilises [ML-Agents](https://github.com/Unity-Technologies/ml-agents), a Unity toolkit, to train Reinforcement Learning Agents.
+Built in Unity, this project provides the ability to create and train your own Neuroevolution Agents through an interactive UI and gamified experience. Alongside this, it utilises [ML-Agents](https://github.com/Unity-Technologies/ml-agents), a Unity toolkit, to train Reinforcement Learning Agents. A demo video of the project can be seen [here](https://www.youtube.com/watch?v=_l_QiZRoJls).
 
 ## Basic Installation
 
